@@ -9,3 +9,6 @@ Here is my humble but efficient i3 rice. Served with generous amount of urxvt, r
 - 30 gramms of `urxvt` for the terminal
 - 1 serving of `rofi` for a better dmenu
 - a dash of `feh` for the wallpaper
+
+
+![](https://i.imgur.com/bFaOifi.jpg "RICE!!!")
